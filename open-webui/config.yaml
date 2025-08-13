@@ -1,0 +1,4 @@
+tools:
+  - name: google_maps
+    description: "Search places or get directions from Google Maps"
+    function: google_maps_tool
